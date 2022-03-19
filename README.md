@@ -9,7 +9,7 @@ Lista de tareas que permite agregar, borrar y editar su estado .-
 +JAVASCRIPT
 +REACT JS
 
-https://sad-edison-737dc6.netlify.app/
+https://todolist-delleore.netlify.app/
 
 # VIEW
 ![cap-2](https://user-images.githubusercontent.com/84545725/159098945-1bdcd897-3e39-4e3d-a7e7-ebbbecd4e0e8.jpg)
